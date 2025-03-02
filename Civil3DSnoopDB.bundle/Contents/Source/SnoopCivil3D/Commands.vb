@@ -27,7 +27,7 @@
 ''// (Rights in Technical Data and Computer Software), as applicable.
 ''//
 ''//
-''// This Sample is written by "Autodesk Developer Network" (ADN) Team
+''// This Sample is written by "Autodesk Developer Network" (ADN) Team s
 ''//
 
 Imports Autodesk.AutoCAD.Runtime
